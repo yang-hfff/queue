@@ -1,5 +1,5 @@
 /**
-  * @file     	ringQueue.c
+  * @file     	queue.c
   * @author   	YangHaifeng
   * @email   	yang_hfff@qq.com
   * @version	V0.0
